@@ -1,0 +1,121 @@
+@charset "ISO-8859-1";
+
+.student-body{
+	
+	background-color: black !important;
+	
+	
+}
+
+.student-h1{
+	
+	    display: table;
+        margin: 0px auto 0px auto;
+        padding:5px 100px 10px 100px;
+        font-size: 50px;
+        background-color: #212529;
+        color: white;
+	
+}
+
+
+.table{
+	
+    color:white;
+    margin:100px;
+}
+
+tr{
+	color:white;
+}
+
+td{
+	text-align: left;
+}
+
+#button{
+	margin:20px;
+	
+}
+
+#form-div{
+	
+	display: table;
+	margin: 50px auto 0px auto;
+    padding:50px 100px 70px 100px;
+    background-image:url("/student-management0-2/URLToReachResourcesFolder/images/form-background.jpg");
+    border: 0.1em solid white
+}
+
+
+.form-label{
+	color:white;
+}
+
+.add-header{
+	text-align: center;
+	color:#198754;
+	font-family: Copperplate, Papyrus, fantasy;
+	font-size:2.5em;
+}
+
+.about-body{
+	
+	background-image:url("/student-management0-2/URLToReachResourcesFolder/images/about-background.jpg");
+}
+
+.about-header{
+	
+	
+	text-align:center;
+	color:#D9514EFF;
+	font-family: Verdana, sans-serif;
+	font-size:80px;
+	word-spacing:10px;
+}
+
+.about-h3{
+	
+	text-align:left;
+	text-indent: 25px;
+	color:#2DA8D8FF;
+	font-family: Verdana, sans-serif;
+	font-size: 40px;
+}
+
+
+.about-ol{
+	 margin:10px auto 50px 50px;
+	 font-family: Georgia, serif;
+     font-size: 20px;
+     color: white;
+}
+
+
+
+.about-tech, .about-me{
+	display:inline-block;
+	margin:50px;
+	
+}
+.about-me{
+	vertical-align:top;
+}
+
+.about-header{
+	display:inline-block;
+}
+
+
+h4{
+	font-family: Verdana, sans-serif;
+	color:#c2eeff;
+}
+p{
+	color:white;
+	font-family: Georgia, serif;
+}
+
+
+
+
